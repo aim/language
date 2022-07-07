@@ -21,7 +21,6 @@
     "aim": "bin/aim"
   },
   "scripts": {
-    "jec": "parcel --no-cache --no-hmr jec/index.html",
     "test": "jest",
     "format": "prettier --ignore-path .gitignore --ignore-unknown --write .",
     "lint": "eslint --ignore-path .gitignore  --fix .",
