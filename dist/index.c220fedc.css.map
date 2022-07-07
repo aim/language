@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["jec/style.css"],"sourcesContent":["body {\n  margin: 0;\n  font-family: \"Courier New\", Courier, monospace;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  height: 100vh;\n}\n"],"names":[],"version":3,"file":"index.c220fedc.css.map","sourceRoot":"/__parcel_source_root/"}
